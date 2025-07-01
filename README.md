@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajnishmaurya/DSA/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Rajnishmaurya/DSA/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Rajnishmaurya/DSA/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Rajnishmaurya/DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
