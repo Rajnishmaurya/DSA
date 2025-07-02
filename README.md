@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Rajnishmaurya/DSA/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/Rajnishmaurya/DSA/tree/master/0041-first-missing-positive) |
+| [0135-candy](https://github.com/Rajnishmaurya/DSA/tree/master/0135-candy) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rajnishmaurya/DSA/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Rajnishmaurya/DSA/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
