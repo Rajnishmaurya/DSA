@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Rajnishmaurya/DSA/tree/master/0041-first-missing-positive) |
+| [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajnishmaurya/DSA/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Rajnishmaurya/DSA/tree/master/0043-multiply-strings) |
+| [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -90,4 +93,8 @@
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
