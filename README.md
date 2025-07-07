@@ -11,6 +11,7 @@
 | [0051-n-queens](https://github.com/Rajnishmaurya/DSA/tree/master/0051-n-queens) |
 | [0135-candy](https://github.com/Rajnishmaurya/DSA/tree/master/0135-candy) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DSA/tree/master/0313-super-ugly-number) |
+| [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DSA/tree/master/0396-rotate-function) |
 | [0769-largest-plus-sign](https://github.com/Rajnishmaurya/DSA/tree/master/0769-largest-plus-sign) |
 | [1284-four-divisors](https://github.com/Rajnishmaurya/DSA/tree/master/1284-four-divisors) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Rajnishmaurya/DSA/tree/master/0135-candy) |
+| [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
 ## Breadth-First Search
 |  |
@@ -122,6 +124,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DSA/tree/master/0313-super-ugly-number) |
+| [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DSA/tree/master/0396-rotate-function) |
 | [0576-out-of-boundary-paths](https://github.com/Rajnishmaurya/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0769-largest-plus-sign](https://github.com/Rajnishmaurya/DSA/tree/master/0769-largest-plus-sign) |
