@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rajnishmaurya/DSA/tree/master/0043-multiply-strings) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
 ## Simulation
 |  |
@@ -143,6 +144,7 @@
 ## Tree
 |  |
 | ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
@@ -156,6 +158,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 ## Design
 |  |
@@ -174,4 +177,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rajnishmaurya/DSA/tree/master/0051-n-queens) |
+## Stack
+|  |
+| ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 <!---LeetCode Topics End-->
