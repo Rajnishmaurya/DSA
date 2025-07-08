@@ -19,6 +19,7 @@
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DSA/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0503-next-greater-element-ii) |
 | [0769-largest-plus-sign](https://github.com/Rajnishmaurya/DSA/tree/master/0769-largest-plus-sign) |
 | [1284-four-divisors](https://github.com/Rajnishmaurya/DSA/tree/master/1284-four-divisors) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -201,6 +202,7 @@
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DSA/tree/master/0042-trapping-rain-water) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0503-next-greater-element-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -210,4 +212,5 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
