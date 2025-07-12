@@ -184,6 +184,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Rajnishmaurya/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -203,6 +204,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Rajnishmaurya/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
@@ -248,4 +250,8 @@
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DSA/tree/master/0943-sum-of-subarray-minimums) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Rajnishmaurya/DSA/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
