@@ -82,6 +82,7 @@
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DSA/tree/master/0396-rotate-function) |
 | [0593-valid-square](https://github.com/Rajnishmaurya/DSA/tree/master/0593-valid-square) |
 | [0903-implement-rand10-using-rand7](https://github.com/Rajnishmaurya/DSA/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Rajnishmaurya/DSA/tree/master/0915-generate-random-point-in-a-circle) |
 | [1284-four-divisors](https://github.com/Rajnishmaurya/DSA/tree/master/1284-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Rajnishmaurya/DSA/tree/master/0593-valid-square) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Rajnishmaurya/DSA/tree/master/0915-generate-random-point-in-a-circle) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -281,10 +283,12 @@
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Rajnishmaurya/DSA/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Rajnishmaurya/DSA/tree/master/0915-generate-random-point-in-a-circle) |
 ## Randomized
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Rajnishmaurya/DSA/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Rajnishmaurya/DSA/tree/master/0915-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
