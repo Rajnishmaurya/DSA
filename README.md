@@ -81,6 +81,7 @@
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DSA/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DSA/tree/master/0396-rotate-function) |
 | [0593-valid-square](https://github.com/Rajnishmaurya/DSA/tree/master/0593-valid-square) |
+| [0903-implement-rand10-using-rand7](https://github.com/Rajnishmaurya/DSA/tree/master/0903-implement-rand10-using-rand7) |
 | [1284-four-divisors](https://github.com/Rajnishmaurya/DSA/tree/master/1284-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -273,4 +274,16 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/Rajnishmaurya/DSA/tree/master/0903-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/Rajnishmaurya/DSA/tree/master/0903-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/Rajnishmaurya/DSA/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
