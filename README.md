@@ -133,6 +133,7 @@
 ## Graph
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Rajnishmaurya/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajnishmaurya/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/Rajnishmaurya/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0365-water-and-jug-problem](https://github.com/Rajnishmaurya/DSA/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0437-path-sum-iii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -293,4 +295,8 @@
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Rajnishmaurya/DSA/tree/master/0903-implement-rand10-using-rand7) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Rajnishmaurya/DSA/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
