@@ -31,6 +31,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajnishmaurya/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajnishmaurya/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
@@ -244,6 +245,7 @@
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Rajnishmaurya/DSA/tree/master/0051-n-queens) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishmaurya/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajnishmaurya/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajnishmaurya/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Trie
 |  |
 | ------- |
@@ -299,4 +302,8 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Rajnishmaurya/DSA/tree/master/0332-reconstruct-itinerary) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajnishmaurya/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
