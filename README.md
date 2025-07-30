@@ -26,6 +26,7 @@
 | [0503-next-greater-element-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0503-next-greater-element-ii) |
 | [0769-largest-plus-sign](https://github.com/Rajnishmaurya/DSA/tree/master/0769-largest-plus-sign) |
 | [0842-card-flipping-game](https://github.com/Rajnishmaurya/DSA/tree/master/0842-card-flipping-game) |
+| [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rajnishmaurya/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
@@ -63,6 +64,7 @@
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rajnishmaurya/DSA/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sorting
@@ -71,6 +73,7 @@
 | [0016-3sum-closest](https://github.com/Rajnishmaurya/DSA/tree/master/0016-3sum-closest) |
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DSA/tree/master/0368-largest-divisible-subset) |
+| [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -107,6 +110,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Divide and Conquer
 |  |
