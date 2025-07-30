@@ -93,6 +93,7 @@
 | [1064-smallest-integer-divisible-by-k](https://github.com/Rajnishmaurya/DSA/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/Rajnishmaurya/DSA/tree/master/1284-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rajnishmaurya/DSA/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Recursion
 |  |
@@ -127,6 +128,7 @@
 | [0135-candy](https://github.com/Rajnishmaurya/DSA/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Breadth-First Search
 |  |
 | ------- |
