@@ -16,6 +16,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Rajnishmaurya/DSA/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rajnishmaurya/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0307-range-sum-query-mutable](https://github.com/Rajnishmaurya/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DSA/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DSA/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
@@ -244,6 +245,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/Rajnishmaurya/DSA/tree/master/0307-range-sum-query-mutable) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
@@ -323,4 +325,12 @@
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajnishmaurya/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rajnishmaurya/DSA/tree/master/2541-sum-of-number-and-its-reverse) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Rajnishmaurya/DSA/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Rajnishmaurya/DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
