@@ -44,6 +44,7 @@
 | [2342-minimum-average-difference](https://github.com/Rajnishmaurya/DSA/tree/master/2342-minimum-average-difference) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajnishmaurya/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3541-report-spam-message](https://github.com/Rajnishmaurya/DSA/tree/master/3541-report-spam-message) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Rajnishmaurya/DSA/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Rajnishmaurya/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
+| [3541-report-spam-message](https://github.com/Rajnishmaurya/DSA/tree/master/3541-report-spam-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
 | [3396-valid-word](https://github.com/Rajnishmaurya/DSA/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Rajnishmaurya/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
+| [3541-report-spam-message](https://github.com/Rajnishmaurya/DSA/tree/master/3541-report-spam-message) |
 ## Simulation
 |  |
 | ------- |
