@@ -35,6 +35,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rajnishmaurya/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajnishmaurya/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -54,6 +55,7 @@
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Rajnishmaurya/DSA/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rajnishmaurya/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Two Pointers
@@ -262,6 +264,7 @@
 | ------- |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rajnishmaurya/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
