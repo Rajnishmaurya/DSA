@@ -69,6 +69,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rajnishmaurya/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rajnishmaurya/DSA/tree/master/2117-find-original-array-from-doubled-array) |
+| [2455-node-with-highest-edge-score](https://github.com/Rajnishmaurya/DSA/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajnishmaurya/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Rajnishmaurya/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -187,6 +188,7 @@
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2455-node-with-highest-edge-score](https://github.com/Rajnishmaurya/DSA/tree/master/2455-node-with-highest-edge-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
