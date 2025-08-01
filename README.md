@@ -42,6 +42,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rajnishmaurya/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Rajnishmaurya/DSA/tree/master/2066-add-minimum-number-of-rungs) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Rajnishmaurya/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Rajnishmaurya/DSA/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajnishmaurya/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2342-minimum-average-difference](https://github.com/Rajnishmaurya/DSA/tree/master/2342-minimum-average-difference) |
@@ -66,6 +67,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rajnishmaurya/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Rajnishmaurya/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Rajnishmaurya/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3541-report-spam-message](https://github.com/Rajnishmaurya/DSA/tree/master/3541-report-spam-message) |
@@ -91,6 +93,7 @@
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Rajnishmaurya/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Rajnishmaurya/DSA/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Linked List
 |  |
@@ -159,6 +162,7 @@
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Rajnishmaurya/DSA/tree/master/2066-add-minimum-number-of-rungs) |
+| [2117-find-original-array-from-doubled-array](https://github.com/Rajnishmaurya/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Rajnishmaurya/DSA/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Breadth-First Search
 |  |
