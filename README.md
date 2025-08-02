@@ -51,6 +51,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajnishmaurya/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3541-report-spam-message](https://github.com/Rajnishmaurya/DSA/tree/master/3541-report-spam-message) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Rajnishmaurya/DSA/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Rajnishmaurya/DSA/tree/master/3849-equal-sum-grid-partition-i) |
 | [3936-split-array-by-prime-indices](https://github.com/Rajnishmaurya/DSA/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
@@ -76,6 +77,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajnishmaurya/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Rajnishmaurya/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3541-report-spam-message](https://github.com/Rajnishmaurya/DSA/tree/master/3541-report-spam-message) |
+| [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rajnishmaurya/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 ## Graph
 |  |
 | ------- |
@@ -192,6 +195,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2455-node-with-highest-edge-score](https://github.com/Rajnishmaurya/DSA/tree/master/2455-node-with-highest-edge-score) |
+| [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -269,10 +273,12 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 ## Union Find
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
+| [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 ## Binary Tree
 |  |
 | ------- |
