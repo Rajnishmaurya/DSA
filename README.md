@@ -50,6 +50,7 @@
 | [2342-minimum-average-difference](https://github.com/Rajnishmaurya/DSA/tree/master/2342-minimum-average-difference) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajnishmaurya/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
 | [3388-right-triangles](https://github.com/Rajnishmaurya/DSA/tree/master/3388-right-triangles) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajnishmaurya/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Rajnishmaurya/DSA/tree/master/3495-k-th-nearest-obstacle-queries) |
@@ -147,6 +148,7 @@
 | [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DSA/tree/master/0907-koko-eating-bananas) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rajnishmaurya/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajnishmaurya/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Rolling Hash
 |  |
