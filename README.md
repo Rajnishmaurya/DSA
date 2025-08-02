@@ -51,6 +51,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajnishmaurya/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3541-report-spam-message](https://github.com/Rajnishmaurya/DSA/tree/master/3541-report-spam-message) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Rajnishmaurya/DSA/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3936-split-array-by-prime-indices](https://github.com/Rajnishmaurya/DSA/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rajnishmaurya/DSA/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Rajnishmaurya/DSA/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3936-split-array-by-prime-indices](https://github.com/Rajnishmaurya/DSA/tree/master/3936-split-array-by-prime-indices) |
 ## Recursion
 |  |
 | ------- |
@@ -384,6 +386,7 @@
 |  |
 | ------- |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Rajnishmaurya/DSA/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3936-split-array-by-prime-indices](https://github.com/Rajnishmaurya/DSA/tree/master/3936-split-array-by-prime-indices) |
 ## Sliding Window
 |  |
 | ------- |
