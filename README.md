@@ -55,6 +55,7 @@
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Rajnishmaurya/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Rajnishmaurya/DSA/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3388-right-triangles](https://github.com/Rajnishmaurya/DSA/tree/master/3388-right-triangles) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajnishmaurya/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Rajnishmaurya/DSA/tree/master/3495-k-th-nearest-obstacle-queries) |
@@ -116,6 +117,7 @@
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Rajnishmaurya/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Rajnishmaurya/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Rajnishmaurya/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Linked List
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rajnishmaurya/DSA/tree/master/2541-sum-of-number-and-its-reverse) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3388-right-triangles](https://github.com/Rajnishmaurya/DSA/tree/master/3388-right-triangles) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Rajnishmaurya/DSA/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3936-split-array-by-prime-indices](https://github.com/Rajnishmaurya/DSA/tree/master/3936-split-array-by-prime-indices) |
@@ -358,6 +361,7 @@
 | ------- |
 | [0593-valid-square](https://github.com/Rajnishmaurya/DSA/tree/master/0593-valid-square) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Rajnishmaurya/DSA/tree/master/0915-generate-random-point-in-a-circle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -406,6 +410,7 @@
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajnishmaurya/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rajnishmaurya/DSA/tree/master/2541-sum-of-number-and-its-reverse) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Rajnishmaurya/DSA/tree/master/3849-equal-sum-grid-partition-i) |
 ## Binary Indexed Tree
 |  |
