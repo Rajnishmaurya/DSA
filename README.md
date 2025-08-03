@@ -53,6 +53,7 @@
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Rajnishmaurya/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Rajnishmaurya/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Rajnishmaurya/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Rajnishmaurya/DSA/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
 | [3388-right-triangles](https://github.com/Rajnishmaurya/DSA/tree/master/3388-right-triangles) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajnishmaurya/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -192,6 +193,7 @@
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Rajnishmaurya/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Rajnishmaurya/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Rajnishmaurya/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Rajnishmaurya/DSA/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
