@@ -50,6 +50,7 @@
 | [2342-minimum-average-difference](https://github.com/Rajnishmaurya/DSA/tree/master/2342-minimum-average-difference) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajnishmaurya/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Rajnishmaurya/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Rajnishmaurya/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Rajnishmaurya/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
@@ -111,6 +112,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rajnishmaurya/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Rajnishmaurya/DSA/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Rajnishmaurya/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Rajnishmaurya/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Rajnishmaurya/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Linked List
@@ -187,6 +189,7 @@
 | [2066-add-minimum-number-of-rungs](https://github.com/Rajnishmaurya/DSA/tree/master/2066-add-minimum-number-of-rungs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rajnishmaurya/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Rajnishmaurya/DSA/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Rajnishmaurya/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Rajnishmaurya/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Rajnishmaurya/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Breadth-First Search
@@ -411,6 +414,7 @@
 |  |
 | ------- |
 | [2342-minimum-average-difference](https://github.com/Rajnishmaurya/DSA/tree/master/2342-minimum-average-difference) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Rajnishmaurya/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Rajnishmaurya/DSA/tree/master/3849-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
