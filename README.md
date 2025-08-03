@@ -209,6 +209,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rajnishmaurya/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Rajnishmaurya/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
@@ -220,6 +221,7 @@
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Rajnishmaurya/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/Rajnishmaurya/DSA/tree/master/2455-node-with-highest-edge-score) |
 | [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 ## Heap (Priority Queue)
@@ -302,12 +304,14 @@
 | [0437-path-sum-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0437-path-sum-iii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Rajnishmaurya/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 ## Union Find
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Rajnishmaurya/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 ## Binary Tree
 |  |
