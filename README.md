@@ -29,6 +29,7 @@
 | [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DSA/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rajnishmaurya/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Rajnishmaurya/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
@@ -75,6 +76,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
 | [0842-card-flipping-game](https://github.com/Rajnishmaurya/DSA/tree/master/0842-card-flipping-game) |
+| [0940-fruit-into-baskets](https://github.com/Rajnishmaurya/DSA/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Rajnishmaurya/DSA/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
@@ -438,6 +440,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/Rajnishmaurya/DSA/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajnishmaurya/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Combinatorics
 |  |
