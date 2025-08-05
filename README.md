@@ -145,6 +145,7 @@
 | [1230-maximum-of-absolute-value-expression](https://github.com/Rajnishmaurya/DSA/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/Rajnishmaurya/DSA/tree/master/1284-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Rajnishmaurya/DSA/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rajnishmaurya/DSA/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -372,6 +373,7 @@
 | ------- |
 | [0593-valid-square](https://github.com/Rajnishmaurya/DSA/tree/master/0593-valid-square) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Rajnishmaurya/DSA/tree/master/0915-generate-random-point-in-a-circle) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Rajnishmaurya/DSA/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Monotonic Stack
 |  |
