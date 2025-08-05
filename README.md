@@ -147,6 +147,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Rajnishmaurya/DSA/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Rajnishmaurya/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rajnishmaurya/DSA/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3388-right-triangles](https://github.com/Rajnishmaurya/DSA/tree/master/3388-right-triangles) |
@@ -178,6 +179,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishmaurya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Rajnishmaurya/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3396-valid-word](https://github.com/Rajnishmaurya/DSA/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Rajnishmaurya/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3541-report-spam-message](https://github.com/Rajnishmaurya/DSA/tree/master/3541-report-spam-message) |
