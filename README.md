@@ -39,6 +39,7 @@
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Rajnishmaurya/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rajnishmaurya/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -209,6 +210,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rajnishmaurya/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Rajnishmaurya/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -244,6 +246,7 @@
 | [0085-maximal-rectangle](https://github.com/Rajnishmaurya/DSA/tree/master/0085-maximal-rectangle) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Rajnishmaurya/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rajnishmaurya/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Rajnishmaurya/DSA/tree/master/3849-equal-sum-grid-partition-i) |
@@ -306,6 +309,7 @@
 | [0437-path-sum-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0437-path-sum-iii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Rajnishmaurya/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
@@ -313,6 +317,7 @@
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Rajnishmaurya/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 ## Binary Tree
