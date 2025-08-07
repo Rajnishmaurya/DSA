@@ -33,6 +33,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
+| [0967-minimum-falling-path-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/Rajnishmaurya/DSA/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/Rajnishmaurya/DSA/tree/master/1284-four-divisors) |
@@ -249,6 +250,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DSA/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Rajnishmaurya/DSA/tree/master/0085-maximal-rectangle) |
+| [0967-minimum-falling-path-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Rajnishmaurya/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -278,6 +280,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rajnishmaurya/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/Rajnishmaurya/DSA/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
