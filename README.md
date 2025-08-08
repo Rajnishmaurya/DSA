@@ -185,6 +185,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishmaurya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [1170-shortest-common-supersequence](https://github.com/Rajnishmaurya/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rajnishmaurya/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3396-valid-word](https://github.com/Rajnishmaurya/DSA/tree/master/3396-valid-word) |
@@ -287,6 +288,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rajnishmaurya/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/Rajnishmaurya/DSA/tree/master/1170-shortest-common-supersequence) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/Rajnishmaurya/DSA/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
