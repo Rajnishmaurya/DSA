@@ -17,6 +17,7 @@
 | [0135-candy](https://github.com/Rajnishmaurya/DSA/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rajnishmaurya/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0307-range-sum-query-mutable](https://github.com/Rajnishmaurya/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0312-burst-balloons](https://github.com/Rajnishmaurya/DSA/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DSA/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DSA/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
@@ -281,6 +282,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rajnishmaurya/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
+| [0312-burst-balloons](https://github.com/Rajnishmaurya/DSA/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DSA/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DSA/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
