@@ -46,6 +46,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rajnishmaurya/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Rajnishmaurya/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rajnishmaurya/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Rajnishmaurya/DSA/tree/master/2066-add-minimum-number-of-rungs) |
@@ -121,6 +122,7 @@
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Rajnishmaurya/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rajnishmaurya/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Rajnishmaurya/DSA/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Rajnishmaurya/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -291,6 +293,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Rajnishmaurya/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Rajnishmaurya/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/Rajnishmaurya/DSA/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
