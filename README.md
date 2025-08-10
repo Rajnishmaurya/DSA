@@ -487,4 +487,8 @@
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/Rajnishmaurya/DSA/tree/master/3791-fruits-into-baskets-iii) |
+## Database
+|  |
+| ------- |
+| [3767-find-students-who-improved](https://github.com/Rajnishmaurya/DSA/tree/master/3767-find-students-who-improved) |
 <!---LeetCode Topics End-->
