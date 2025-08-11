@@ -491,5 +491,6 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Rajnishmaurya/DSA/tree/master/0176-second-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/Rajnishmaurya/DSA/tree/master/0180-consecutive-numbers) |
 | [3767-find-students-who-improved](https://github.com/Rajnishmaurya/DSA/tree/master/3767-find-students-who-improved) |
 <!---LeetCode Topics End-->
