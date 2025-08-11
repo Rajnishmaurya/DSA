@@ -53,6 +53,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rajnishmaurya/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Rajnishmaurya/DSA/tree/master/2066-add-minimum-number-of-rungs) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Rajnishmaurya/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rajnishmaurya/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Rajnishmaurya/DSA/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajnishmaurya/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -129,6 +130,7 @@
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Rajnishmaurya/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Rajnishmaurya/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Rajnishmaurya/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Rajnishmaurya/DSA/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Rajnishmaurya/DSA/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Rajnishmaurya/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Rajnishmaurya/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rajnishmaurya/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Rajnishmaurya/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3396-valid-word](https://github.com/Rajnishmaurya/DSA/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Rajnishmaurya/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3541-report-spam-message](https://github.com/Rajnishmaurya/DSA/tree/master/3541-report-spam-message) |
@@ -264,6 +268,7 @@
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Rajnishmaurya/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Rajnishmaurya/DSA/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Matrix
@@ -509,4 +514,8 @@
 | [0176-second-highest-salary](https://github.com/Rajnishmaurya/DSA/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Rajnishmaurya/DSA/tree/master/0180-consecutive-numbers) |
 | [3767-find-students-who-improved](https://github.com/Rajnishmaurya/DSA/tree/master/3767-find-students-who-improved) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Rajnishmaurya/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
