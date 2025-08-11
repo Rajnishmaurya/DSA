@@ -65,6 +65,7 @@
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Rajnishmaurya/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Rajnishmaurya/DSA/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/Rajnishmaurya/DSA/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3388-right-triangles](https://github.com/Rajnishmaurya/DSA/tree/master/3388-right-triangles) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajnishmaurya/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -99,6 +100,7 @@
 | [2455-node-with-highest-edge-score](https://github.com/Rajnishmaurya/DSA/tree/master/2455-node-with-highest-edge-score) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajnishmaurya/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/Rajnishmaurya/DSA/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3388-right-triangles](https://github.com/Rajnishmaurya/DSA/tree/master/3388-right-triangles) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Rajnishmaurya/DSA/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3541-report-spam-message](https://github.com/Rajnishmaurya/DSA/tree/master/3541-report-spam-message) |
@@ -230,6 +232,7 @@
 | [2706-minimum-score-by-changing-two-elements](https://github.com/Rajnishmaurya/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Rajnishmaurya/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Rajnishmaurya/DSA/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/Rajnishmaurya/DSA/tree/master/3228-maximum-size-of-a-set-after-removals) |
 ## Breadth-First Search
 |  |
 | ------- |
