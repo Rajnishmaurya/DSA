@@ -15,6 +15,7 @@
 | [0085-maximal-rectangle](https://github.com/Rajnishmaurya/DSA/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Rajnishmaurya/DSA/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rajnishmaurya/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0307-range-sum-query-mutable](https://github.com/Rajnishmaurya/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Rajnishmaurya/DSA/tree/master/0312-burst-balloons) |
@@ -79,6 +80,7 @@
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Rajnishmaurya/DSA/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/Rajnishmaurya/DSA/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
@@ -187,6 +189,7 @@
 | [0115-distinct-subsequences](https://github.com/Rajnishmaurya/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Rajnishmaurya/DSA/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishmaurya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -282,6 +285,7 @@
 | [0115-distinct-subsequences](https://github.com/Rajnishmaurya/DSA/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rajnishmaurya/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/Rajnishmaurya/DSA/tree/master/0312-burst-balloons) |
@@ -424,6 +428,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Rejection Sampling
 |  |
@@ -482,6 +487,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Ordered Set
 |  |
