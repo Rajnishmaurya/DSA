@@ -318,6 +318,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Rajnishmaurya/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Rajnishmaurya/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/Rajnishmaurya/DSA/tree/master/2397-count-number-of-ways-to-place-houses) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Rajnishmaurya/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajnishmaurya/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
