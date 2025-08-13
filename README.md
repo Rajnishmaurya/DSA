@@ -153,6 +153,7 @@
 | [0043-multiply-strings](https://github.com/Rajnishmaurya/DSA/tree/master/0043-multiply-strings) |
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DSA/tree/master/0313-super-ugly-number) |
+| [0326-power-of-three](https://github.com/Rajnishmaurya/DSA/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/Rajnishmaurya/DSA/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DSA/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DSA/tree/master/0396-rotate-function) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajnishmaurya/DSA/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/Rajnishmaurya/DSA/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
