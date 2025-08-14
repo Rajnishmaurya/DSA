@@ -271,6 +271,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0885-exam-room](https://github.com/Rajnishmaurya/DSA/tree/master/0885-exam-room) |
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
@@ -347,6 +348,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Rajnishmaurya/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -378,6 +380,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Rajnishmaurya/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
@@ -387,12 +390,14 @@
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/Rajnishmaurya/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0885-exam-room](https://github.com/Rajnishmaurya/DSA/tree/master/0885-exam-room) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
 | ------- |
@@ -444,6 +449,7 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajnishmaurya/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Rajnishmaurya/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bit Manipulation
 |  |
 | ------- |
