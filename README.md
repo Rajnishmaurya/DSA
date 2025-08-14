@@ -57,6 +57,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/Rajnishmaurya/DSA/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Rajnishmaurya/DSA/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajnishmaurya/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2227-sum-of-subarray-ranges](https://github.com/Rajnishmaurya/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2342-minimum-average-difference](https://github.com/Rajnishmaurya/DSA/tree/master/2342-minimum-average-difference) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajnishmaurya/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -416,6 +417,7 @@
 | [0503-next-greater-element-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Rajnishmaurya/DSA/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2227-sum-of-subarray-ranges](https://github.com/Rajnishmaurya/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Geometry
 |  |
 | ------- |
@@ -433,6 +435,7 @@
 | [0503-next-greater-element-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Rajnishmaurya/DSA/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2227-sum-of-subarray-ranges](https://github.com/Rajnishmaurya/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search Tree
 |  |
 | ------- |
