@@ -364,6 +364,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Rajnishmaurya/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0687-longest-univalue-path](https://github.com/Rajnishmaurya/DSA/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -375,6 +376,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Rajnishmaurya/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0365-water-and-jug-problem](https://github.com/Rajnishmaurya/DSA/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0437-path-sum-iii) |
+| [0687-longest-univalue-path](https://github.com/Rajnishmaurya/DSA/tree/master/0687-longest-univalue-path) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -396,6 +398,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Rajnishmaurya/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0687-longest-univalue-path](https://github.com/Rajnishmaurya/DSA/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
