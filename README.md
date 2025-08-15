@@ -45,6 +45,7 @@
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
 | [0967-minimum-falling-path-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
+| [1183-statistics-from-a-large-sample](https://github.com/Rajnishmaurya/DSA/tree/master/1183-statistics-from-a-large-sample) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/Rajnishmaurya/DSA/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/Rajnishmaurya/DSA/tree/master/1284-four-divisors) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Rajnishmaurya/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -174,6 +175,7 @@
 | [0915-generate-random-point-in-a-circle](https://github.com/Rajnishmaurya/DSA/tree/master/0915-generate-random-point-in-a-circle) |
 | [1010-powerful-integers](https://github.com/Rajnishmaurya/DSA/tree/master/1010-powerful-integers) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Rajnishmaurya/DSA/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1183-statistics-from-a-large-sample](https://github.com/Rajnishmaurya/DSA/tree/master/1183-statistics-from-a-large-sample) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/Rajnishmaurya/DSA/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/Rajnishmaurya/DSA/tree/master/1284-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -494,6 +496,7 @@
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Rajnishmaurya/DSA/tree/master/0903-implement-rand10-using-rand7) |
+| [1183-statistics-from-a-large-sample](https://github.com/Rajnishmaurya/DSA/tree/master/1183-statistics-from-a-large-sample) |
 ## Eulerian Circuit
 |  |
 | ------- |
