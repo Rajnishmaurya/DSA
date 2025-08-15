@@ -34,6 +34,7 @@
 | [0769-largest-plus-sign](https://github.com/Rajnishmaurya/DSA/tree/master/0769-largest-plus-sign) |
 | [0842-card-flipping-game](https://github.com/Rajnishmaurya/DSA/tree/master/0842-card-flipping-game) |
 | [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
+| [0890-lemonade-change](https://github.com/Rajnishmaurya/DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DSA/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rajnishmaurya/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Rajnishmaurya/DSA/tree/master/0940-fruit-into-baskets) |
@@ -231,6 +232,7 @@
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rajnishmaurya/DSA/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Rajnishmaurya/DSA/tree/master/0890-lemonade-change) |
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Rajnishmaurya/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
