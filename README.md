@@ -169,6 +169,7 @@
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DSA/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DSA/tree/master/0396-rotate-function) |
 | [0593-valid-square](https://github.com/Rajnishmaurya/DSA/tree/master/0593-valid-square) |
+| [0640-solve-the-equation](https://github.com/Rajnishmaurya/DSA/tree/master/0640-solve-the-equation) |
 | [0903-implement-rand10-using-rand7](https://github.com/Rajnishmaurya/DSA/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Rajnishmaurya/DSA/tree/master/0915-generate-random-point-in-a-circle) |
 | [1010-powerful-integers](https://github.com/Rajnishmaurya/DSA/tree/master/1010-powerful-integers) |
@@ -216,6 +217,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishmaurya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0640-solve-the-equation](https://github.com/Rajnishmaurya/DSA/tree/master/0640-solve-the-equation) |
 | [1170-shortest-common-supersequence](https://github.com/Rajnishmaurya/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rajnishmaurya/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -227,6 +229,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rajnishmaurya/DSA/tree/master/0043-multiply-strings) |
+| [0640-solve-the-equation](https://github.com/Rajnishmaurya/DSA/tree/master/0640-solve-the-equation) |
 ## Greedy
 |  |
 | ------- |
