@@ -72,6 +72,7 @@
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Rajnishmaurya/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/Rajnishmaurya/DSA/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Rajnishmaurya/DSA/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3388-right-triangles](https://github.com/Rajnishmaurya/DSA/tree/master/3388-right-triangles) |
@@ -201,6 +202,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Rajnishmaurya/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3791-fruits-into-baskets-iii](https://github.com/Rajnishmaurya/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
@@ -269,6 +271,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Rajnishmaurya/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajnishmaurya/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 ## Graph
@@ -295,6 +298,7 @@
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Rajnishmaurya/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Rajnishmaurya/DSA/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Matrix
 |  |
@@ -307,6 +311,7 @@
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rajnishmaurya/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Rajnishmaurya/DSA/tree/master/3849-equal-sum-grid-partition-i) |
 ## Shortest Path
 |  |
@@ -391,6 +396,7 @@
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Rajnishmaurya/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 ## Binary Tree
 |  |
