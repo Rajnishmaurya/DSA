@@ -174,6 +174,7 @@
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DSA/tree/master/0396-rotate-function) |
 | [0593-valid-square](https://github.com/Rajnishmaurya/DSA/tree/master/0593-valid-square) |
 | [0640-solve-the-equation](https://github.com/Rajnishmaurya/DSA/tree/master/0640-solve-the-equation) |
+| [0755-reach-a-number](https://github.com/Rajnishmaurya/DSA/tree/master/0755-reach-a-number) |
 | [0903-implement-rand10-using-rand7](https://github.com/Rajnishmaurya/DSA/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Rajnishmaurya/DSA/tree/master/0915-generate-random-point-in-a-circle) |
 | [1010-powerful-integers](https://github.com/Rajnishmaurya/DSA/tree/master/1010-powerful-integers) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0755-reach-a-number](https://github.com/Rajnishmaurya/DSA/tree/master/0755-reach-a-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DSA/tree/master/0907-koko-eating-bananas) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
