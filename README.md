@@ -29,6 +29,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rajnishmaurya/DSA/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Rajnishmaurya/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0503-next-greater-element-ii) |
@@ -222,6 +223,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishmaurya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Rajnishmaurya/DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0474-ones-and-zeroes](https://github.com/Rajnishmaurya/DSA/tree/master/0474-ones-and-zeroes) |
 | [0640-solve-the-equation](https://github.com/Rajnishmaurya/DSA/tree/master/0640-solve-the-equation) |
 | [1170-shortest-common-supersequence](https://github.com/Rajnishmaurya/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
@@ -339,6 +341,7 @@
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DSA/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Rajnishmaurya/DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0474-ones-and-zeroes](https://github.com/Rajnishmaurya/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Rajnishmaurya/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0769-largest-plus-sign](https://github.com/Rajnishmaurya/DSA/tree/master/0769-largest-plus-sign) |
