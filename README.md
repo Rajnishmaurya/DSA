@@ -34,6 +34,7 @@
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajnishmaurya/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0624-maximum-distance-in-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0769-largest-plus-sign](https://github.com/Rajnishmaurya/DSA/tree/master/0769-largest-plus-sign) |
 | [0842-card-flipping-game](https://github.com/Rajnishmaurya/DSA/tree/master/0842-card-flipping-game) |
 | [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
@@ -246,6 +247,7 @@
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rajnishmaurya/DSA/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Rajnishmaurya/DSA/tree/master/0890-lemonade-change) |
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Rajnishmaurya/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
