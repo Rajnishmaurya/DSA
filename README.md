@@ -30,6 +30,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rajnishmaurya/DSA/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Rajnishmaurya/DSA/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/Rajnishmaurya/DSA/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0503-next-greater-element-ii) |
@@ -126,6 +127,7 @@
 | [0061-rotate-list](https://github.com/Rajnishmaurya/DSA/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Rajnishmaurya/DSA/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Rajnishmaurya/DSA/tree/master/0475-heaters) |
 | [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -140,6 +142,7 @@
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DSA/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rajnishmaurya/DSA/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Rajnishmaurya/DSA/tree/master/0475-heaters) |
 | [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
@@ -200,6 +203,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0475-heaters](https://github.com/Rajnishmaurya/DSA/tree/master/0475-heaters) |
 | [0755-reach-a-number](https://github.com/Rajnishmaurya/DSA/tree/master/0755-reach-a-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/Rajnishmaurya/DSA/tree/master/0907-koko-eating-bananas) |
