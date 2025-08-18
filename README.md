@@ -98,6 +98,7 @@
 | [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Rajnishmaurya/DSA/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
+| [0355-design-twitter](https://github.com/Rajnishmaurya/DSA/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajnishmaurya/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -166,6 +167,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rajnishmaurya/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Rajnishmaurya/DSA/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/Rajnishmaurya/DSA/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/Rajnishmaurya/DSA/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
@@ -305,6 +307,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/Rajnishmaurya/DSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Rajnishmaurya/DSA/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -435,6 +438,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/Rajnishmaurya/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0355-design-twitter](https://github.com/Rajnishmaurya/DSA/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0885-exam-room](https://github.com/Rajnishmaurya/DSA/tree/master/0885-exam-room) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rajnishmaurya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
