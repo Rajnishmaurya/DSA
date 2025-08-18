@@ -10,6 +10,7 @@
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Rajnishmaurya/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Rajnishmaurya/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Rajnishmaurya/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0056-merge-intervals) |
@@ -252,6 +253,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajnishmaurya/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Rajnishmaurya/DSA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Rajnishmaurya/DSA/tree/master/0179-largest-number) |
@@ -342,6 +344,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajnishmaurya/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Rajnishmaurya/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Rajnishmaurya/DSA/tree/master/0115-distinct-subsequences) |
