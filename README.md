@@ -35,6 +35,7 @@
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajnishmaurya/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Rajnishmaurya/DSA/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0769-largest-plus-sign](https://github.com/Rajnishmaurya/DSA/tree/master/0769-largest-plus-sign) |
 | [0842-card-flipping-game](https://github.com/Rajnishmaurya/DSA/tree/master/0842-card-flipping-game) |
@@ -100,6 +101,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajnishmaurya/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Rajnishmaurya/DSA/tree/master/0621-task-scheduler) |
 | [0842-card-flipping-game](https://github.com/Rajnishmaurya/DSA/tree/master/0842-card-flipping-game) |
 | [0940-fruit-into-baskets](https://github.com/Rajnishmaurya/DSA/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
@@ -143,6 +145,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rajnishmaurya/DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Rajnishmaurya/DSA/tree/master/0475-heaters) |
+| [0621-task-scheduler](https://github.com/Rajnishmaurya/DSA/tree/master/0621-task-scheduler) |
 | [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
@@ -253,6 +256,7 @@
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rajnishmaurya/DSA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Rajnishmaurya/DSA/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Rajnishmaurya/DSA/tree/master/0890-lemonade-change) |
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
@@ -301,6 +305,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/Rajnishmaurya/DSA/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0885-exam-room](https://github.com/Rajnishmaurya/DSA/tree/master/0885-exam-room) |
@@ -441,6 +446,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Rajnishmaurya/DSA/tree/master/0621-task-scheduler) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
 | [1140-distant-barcodes](https://github.com/Rajnishmaurya/DSA/tree/master/1140-distant-barcodes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
