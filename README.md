@@ -14,6 +14,7 @@
 | [0051-n-queens](https://github.com/Rajnishmaurya/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Rajnishmaurya/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Rajnishmaurya/DSA/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rajnishmaurya/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rajnishmaurya/DSA/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
