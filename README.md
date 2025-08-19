@@ -181,6 +181,7 @@
 | [0326-power-of-three](https://github.com/Rajnishmaurya/DSA/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/Rajnishmaurya/DSA/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DSA/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/Rajnishmaurya/DSA/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DSA/tree/master/0396-rotate-function) |
 | [0593-valid-square](https://github.com/Rajnishmaurya/DSA/tree/master/0593-valid-square) |
 | [0640-solve-the-equation](https://github.com/Rajnishmaurya/DSA/tree/master/0640-solve-the-equation) |
@@ -507,6 +508,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Rajnishmaurya/DSA/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rajnishmaurya/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajnishmaurya/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
