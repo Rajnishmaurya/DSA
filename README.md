@@ -130,6 +130,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Rajnishmaurya/DSA/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rajnishmaurya/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajnishmaurya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Rajnishmaurya/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rajnishmaurya/DSA/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -234,6 +235,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajnishmaurya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Rajnishmaurya/DSA/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/Rajnishmaurya/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Rajnishmaurya/DSA/tree/master/0127-word-ladder) |
@@ -392,6 +394,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajnishmaurya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Rajnishmaurya/DSA/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
