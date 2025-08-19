@@ -246,6 +246,7 @@
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Rajnishmaurya/DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/Rajnishmaurya/DSA/tree/master/0474-ones-and-zeroes) |
 | [0640-solve-the-equation](https://github.com/Rajnishmaurya/DSA/tree/master/0640-solve-the-equation) |
+| [0686-repeated-string-match](https://github.com/Rajnishmaurya/DSA/tree/master/0686-repeated-string-match) |
 | [1170-shortest-common-supersequence](https://github.com/Rajnishmaurya/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rajnishmaurya/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -391,6 +392,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/Rajnishmaurya/DSA/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
