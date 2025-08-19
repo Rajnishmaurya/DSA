@@ -242,6 +242,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Rajnishmaurya/DSA/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Rajnishmaurya/DSA/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishmaurya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Rajnishmaurya/DSA/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -390,16 +391,19 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Rajnishmaurya/DSA/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajnishmaurya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Rajnishmaurya/DSA/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Rajnishmaurya/DSA/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Rajnishmaurya/DSA/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Rajnishmaurya/DSA/tree/master/1508-longest-happy-prefix) |
 ## Tree
 |  |
