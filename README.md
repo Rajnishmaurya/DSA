@@ -224,6 +224,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Rajnishmaurya/DSA/tree/master/0191-number-of-1-bits) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Rajnishmaurya/DSA/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## String
 |  |
@@ -508,6 +509,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Rajnishmaurya/DSA/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Rajnishmaurya/DSA/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rajnishmaurya/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
