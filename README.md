@@ -22,6 +22,7 @@
 | [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Rajnishmaurya/DSA/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rajnishmaurya/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0268-missing-number](https://github.com/Rajnishmaurya/DSA/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/Rajnishmaurya/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/Rajnishmaurya/DSA/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DSA/tree/master/0313-super-ugly-number) |
@@ -100,6 +101,7 @@
 | [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Rajnishmaurya/DSA/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Rajnishmaurya/DSA/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/Rajnishmaurya/DSA/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Rajnishmaurya/DSA/tree/master/0496-next-greater-element-i) |
@@ -143,6 +145,7 @@
 | [0016-3sum-closest](https://github.com/Rajnishmaurya/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Rajnishmaurya/DSA/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Rajnishmaurya/DSA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DSA/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -177,6 +180,7 @@
 | [0002-add-two-numbers](https://github.com/Rajnishmaurya/DSA/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Rajnishmaurya/DSA/tree/master/0043-multiply-strings) |
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Rajnishmaurya/DSA/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DSA/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/Rajnishmaurya/DSA/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/Rajnishmaurya/DSA/tree/master/0365-water-and-jug-problem) |
@@ -211,6 +215,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Rajnishmaurya/DSA/tree/master/0268-missing-number) |
 | [0475-heaters](https://github.com/Rajnishmaurya/DSA/tree/master/0475-heaters) |
 | [0755-reach-a-number](https://github.com/Rajnishmaurya/DSA/tree/master/0755-reach-a-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
@@ -511,6 +516,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Rajnishmaurya/DSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Rajnishmaurya/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Rajnishmaurya/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Rajnishmaurya/DSA/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
