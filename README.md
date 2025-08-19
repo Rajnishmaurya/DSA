@@ -358,6 +358,7 @@
 | [0264-ugly-number-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/Rajnishmaurya/DSA/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Rajnishmaurya/DSA/tree/master/0313-super-ugly-number) |
+| [0338-counting-bits](https://github.com/Rajnishmaurya/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Rajnishmaurya/DSA/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Rajnishmaurya/DSA/tree/master/0376-wiggle-subsequence) |
 | [0396-rotate-function](https://github.com/Rajnishmaurya/DSA/tree/master/0396-rotate-function) |
@@ -510,6 +511,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Rajnishmaurya/DSA/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Rajnishmaurya/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Rajnishmaurya/DSA/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Rajnishmaurya/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rajnishmaurya/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
