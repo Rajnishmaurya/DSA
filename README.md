@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajnishmaurya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Rajnishmaurya/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rajnishmaurya/DSA/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Rajnishmaurya/DSA/tree/master/0041-first-missing-positive) |
@@ -128,6 +129,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rajnishmaurya/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rajnishmaurya/DSA/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rajnishmaurya/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajnishmaurya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -143,6 +145,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rajnishmaurya/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rajnishmaurya/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Rajnishmaurya/DSA/tree/master/0179-largest-number) |
