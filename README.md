@@ -16,6 +16,7 @@
 | [0055-jump-game](https://github.com/Rajnishmaurya/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rajnishmaurya/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rajnishmaurya/DSA/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Rajnishmaurya/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rajnishmaurya/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rajnishmaurya/DSA/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -98,6 +99,7 @@
 | [0001-two-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Rajnishmaurya/DSA/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Rajnishmaurya/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Rajnishmaurya/DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Rajnishmaurya/DSA/tree/master/0146-lru-cache) |
@@ -340,6 +342,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DSA/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Rajnishmaurya/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Rajnishmaurya/DSA/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Rajnishmaurya/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
