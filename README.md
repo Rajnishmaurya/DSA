@@ -85,6 +85,7 @@
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Rajnishmaurya/DSA/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rajnishmaurya/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3388-right-triangles](https://github.com/Rajnishmaurya/DSA/tree/master/3388-right-triangles) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Rajnishmaurya/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
