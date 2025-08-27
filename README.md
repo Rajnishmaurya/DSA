@@ -94,6 +94,7 @@
 | [3495-k-th-nearest-obstacle-queries](https://github.com/Rajnishmaurya/DSA/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3541-report-spam-message](https://github.com/Rajnishmaurya/DSA/tree/master/3541-report-spam-message) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/Rajnishmaurya/DSA/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Rajnishmaurya/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3791-fruits-into-baskets-iii](https://github.com/Rajnishmaurya/DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3809-properties-graph](https://github.com/Rajnishmaurya/DSA/tree/master/3809-properties-graph) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Rajnishmaurya/DSA/tree/master/3849-equal-sum-grid-partition-i) |
@@ -362,6 +363,7 @@
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Rajnishmaurya/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rajnishmaurya/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Rajnishmaurya/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Rajnishmaurya/DSA/tree/master/3849-equal-sum-grid-partition-i) |
 ## Shortest Path
 |  |
@@ -407,6 +409,7 @@
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rajnishmaurya/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Rajnishmaurya/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -628,6 +631,7 @@
 | [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0140-word-break-ii) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Rajnishmaurya/DSA/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Rajnishmaurya/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Ordered Set
 |  |
 | ------- |
