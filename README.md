@@ -215,6 +215,7 @@
 | [1501-circle-and-rectangle-overlapping](https://github.com/Rajnishmaurya/DSA/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rajnishmaurya/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rajnishmaurya/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DSA/tree/master/1761-count-sorted-vowel-strings) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Rajnishmaurya/DSA/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rajnishmaurya/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3388-right-triangles](https://github.com/Rajnishmaurya/DSA/tree/master/3388-right-triangles) |
@@ -410,6 +411,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rajnishmaurya/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Rajnishmaurya/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DSA/tree/master/1761-count-sorted-vowel-strings) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/Rajnishmaurya/DSA/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Rajnishmaurya/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2904-sorting-three-groups](https://github.com/Rajnishmaurya/DSA/tree/master/2904-sorting-three-groups) |
@@ -632,6 +634,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/Rajnishmaurya/DSA/tree/master/1761-count-sorted-vowel-strings) |
 | [3388-right-triangles](https://github.com/Rajnishmaurya/DSA/tree/master/3388-right-triangles) |
 ## Memoization
 |  |
