@@ -59,6 +59,7 @@
 | [1230-maximum-of-absolute-value-expression](https://github.com/Rajnishmaurya/DSA/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/Rajnishmaurya/DSA/tree/master/1284-four-divisors) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Rajnishmaurya/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1499-maximum-performance-of-a-team](https://github.com/Rajnishmaurya/DSA/tree/master/1499-maximum-performance-of-a-team) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -359,6 +360,7 @@
 | [0085-maximal-rectangle](https://github.com/Rajnishmaurya/DSA/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/Rajnishmaurya/DSA/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rajnishmaurya/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -405,6 +407,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Rajnishmaurya/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Rajnishmaurya/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rajnishmaurya/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rajnishmaurya/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Rajnishmaurya/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/Rajnishmaurya/DSA/tree/master/2397-count-number-of-ways-to-place-houses) |
