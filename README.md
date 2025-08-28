@@ -329,6 +329,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Rajnishmaurya/DSA/tree/master/0813-all-paths-from-source-to-target) |
 | [1275-validate-binary-tree-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rajnishmaurya/DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rajnishmaurya/DSA/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rajnishmaurya/DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Rajnishmaurya/DSA/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/Rajnishmaurya/DSA/tree/master/2455-node-with-highest-edge-score) |
