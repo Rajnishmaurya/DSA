@@ -253,6 +253,7 @@
 | [0043-multiply-strings](https://github.com/Rajnishmaurya/DSA/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/Rajnishmaurya/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Rajnishmaurya/DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0140-word-break-ii) |
@@ -387,6 +388,7 @@
 | [0085-maximal-rectangle](https://github.com/Rajnishmaurya/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Rajnishmaurya/DSA/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rajnishmaurya/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Rajnishmaurya/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0140-word-break-ii) |
@@ -521,6 +523,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rajnishmaurya/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Rajnishmaurya/DSA/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/Rajnishmaurya/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Rajnishmaurya/DSA/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishmaurya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0494-target-sum) |
