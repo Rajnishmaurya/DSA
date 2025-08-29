@@ -148,6 +148,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Rajnishmaurya/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Rajnishmaurya/DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Rajnishmaurya/DSA/tree/master/0475-heaters) |
+| [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DSA/tree/master/0647-palindromic-substrings) |
 | [0852-friends-of-appropriate-ages](https://github.com/Rajnishmaurya/DSA/tree/master/0852-friends-of-appropriate-ages) |
 | [0959-3sum-with-multiplicity](https://github.com/Rajnishmaurya/DSA/tree/master/0959-3sum-with-multiplicity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rajnishmaurya/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -265,6 +266,7 @@
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Rajnishmaurya/DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/Rajnishmaurya/DSA/tree/master/0474-ones-and-zeroes) |
 | [0640-solve-the-equation](https://github.com/Rajnishmaurya/DSA/tree/master/0640-solve-the-equation) |
+| [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DSA/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Rajnishmaurya/DSA/tree/master/0686-repeated-string-match) |
 | [1170-shortest-common-supersequence](https://github.com/Rajnishmaurya/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rajnishmaurya/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -405,6 +407,7 @@
 | [0474-ones-and-zeroes](https://github.com/Rajnishmaurya/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Rajnishmaurya/DSA/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Rajnishmaurya/DSA/tree/master/0576-out-of-boundary-paths) |
+| [0647-palindromic-substrings](https://github.com/Rajnishmaurya/DSA/tree/master/0647-palindromic-substrings) |
 | [0769-largest-plus-sign](https://github.com/Rajnishmaurya/DSA/tree/master/0769-largest-plus-sign) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rajnishmaurya/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rajnishmaurya/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
